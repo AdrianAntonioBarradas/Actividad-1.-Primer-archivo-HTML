@@ -1,0 +1,49 @@
+.header {
+  padding: 13px;
+  text-align: center;
+  background: #7ed957;
+  color: white;
+  font-size: 30px;
+}
+
+.wrapper {
+    display: flex;
+    width: 100%;
+}
+
+#sidebar {
+    height: 1106px;
+    width: 21%;
+    background: #1685c6;
+}
+
+
+
+footer.sticky-footer {
+    padding: 2rem 19px;
+    flex-shrink: 0;
+    background-color: #08f908;
+}
+
+
+
+.first {
+    background: #e0f8f4;
+    height: 101px;
+}
+
+.second {
+    background: #ffbd59;
+    height: 200px;
+    border: solid;
+}
+
+.third {
+    background: #dee031;
+    border: solid;
+    height: 145px;
+}
+
+
+
+

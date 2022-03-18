@@ -1,0 +1,44 @@
+.header {
+  padding: 28px;
+  text-align: center;
+  background: #7ed957;
+  color: white;
+  font-size: 30px;
+  border: solid;
+}
+
+.red {
+    background:#fe0000;
+}
+#sidebar {
+    height: 1106px;
+    width: 21%;
+    background: #1685c6;
+}
+
+
+
+footer.sticky-footer {
+    padding: 0rem 15px;
+    flex-shrink: 0;
+    background-color: #08f908;
+}
+
+
+
+.first {
+    background: #fe00fc;
+    height: 97px;
+}
+
+.second {
+    background: #4f8fe3;
+    height: 200px;
+    border: solid;
+}
+
+.third {
+    background: #c7d0d8;
+    border: solid;
+    height: 24vh;
+}

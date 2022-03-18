@@ -1,0 +1,27 @@
+.footer {
+    padding: 1.5rem 18px;
+    flex-shrink: 0;
+    background-color: #c1f7e1;
+    margin
+}
+.a {
+        flex: 0 0 auto;
+    width: 5%;
+}
+
+.col-5 {
+    flex: 0 0 auto;
+    width: 47.5%;
+}
+
+.first {
+    background: #c9e265;
+    height: 97px;
+}
+
+
+.third {
+    background: #23acc8;
+    border: solid;
+    height: 24vh;
+}

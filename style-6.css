@@ -1,0 +1,28 @@
+
+.footer {
+    padding: 1rem 15px;
+    flex-shrink: 0;
+    background-color: #ffde59;
+    border: solid;
+    font-size: 120%;
+}
+
+
+
+.first {
+    background: #e19161;
+    height: 97px;
+}
+
+.second {
+    background: #ffbd59;
+    height: 226px;
+    border: solid;
+    text-align: center;
+}
+
+.third {
+    background: #c7d0d8;
+    border: solid;
+    height: 139px;
+}
